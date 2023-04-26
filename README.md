@@ -14,14 +14,14 @@ i have used localstorage of browser as temproray database
 ![main page](./images-github/main-page.png)
 
 ## setting calorie
-![main page](./images-github/setting -calorie.png)
+![setting calorie](./images-github/setting-calorie.png)
 
 ## adding meals and workouts:
 ### filter and adding meal
-![main page](./images-github/addingMealsAndWorkouts.png)
+![adding meal and workouts 1](./images-github/addingMealsAndWorkouts.png)
 
 ### meals and workouts and progressbar
-![main page](./images-github/addingMealsAndWorkouts2.png)
+![adding meal and workouts 2](./images-github/addingMealsAndWorkouts2.png)
 
-![main page](./images-github/addingMealsAndWorkouts3.png)
+![adding meal and workouts 3](./images-github/addingMealsAndWorkouts3.png)
 
